@@ -1,5 +1,5 @@
 # ChatBot
-This Python code implements a basic chatbot that responds to user inputs. Here's a shorter description:
+This Python code implements a basic chatbot that responds to user inputs. 
 
 The code analyzes user messages using regular expressions and predefined patterns to generate appropriate responses. It calculates the probability of matching recognized words in the user message and checks for required words if specified. If the probability meets the criteria, the chatbot returns a response.
 
